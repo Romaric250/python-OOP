@@ -1,0 +1,6 @@
+In the context of data storage, serialisation is the process of translating data structures or object state into a fformat that can be s
+ into a format that can be stored. e.g in a file or memort. 
+
+ in serialisation, and object is transformed intoa format that can be stored, so as to be able tp deserialise it later and recreate the original object from the serialised format.
+
+ 
