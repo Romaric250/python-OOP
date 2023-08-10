@@ -17,6 +17,16 @@ try:
 except FileNotFoundError:
     print("the file you are trying to read does not exist")
 
+try:
+    file = 'object.txt'
+    with open(file, encoding="utf-8") as f:
+       fcontent = f.read()
+except FileNotFoundError:
+    print("file {} does not exist".format(file))
+else:
+    words = fcontent.split()
+    print("number of words in {} is {}" .format(file,len(words)))
+
 
 print("the programs still continuous")
 
