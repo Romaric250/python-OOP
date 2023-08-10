@@ -3,4 +3,17 @@ In the context of data storage, serialisation is the process of translating data
 
  in serialisation, and object is transformed intoa format that can be stored, so as to be able tp deserialise it later and recreate the original object from the serialised format.
 
+ take not of the json serialisation technicstake not of the json serialisation technicstake not of the json serialisation technicstake not of the json serialisation 
  
+
+take not of the json serialisation technics
+take not of the json serialisation technics
+take not of the json serialisation technics
+take not of the json serialisation technics
+take not of the json serialisation technics
+take not of the json serialisation technics
+take not of the json serialisation technics
+take not of the json serialisation technics
+take not of the json serialisation technics
+take not of the json serialisation technics
+take not of the json serialisation technics

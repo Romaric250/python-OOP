@@ -1,4 +1,5 @@
 def enterAge(age):
+    age = int(input("enter your age: "))
     if age<0:
         raise ValueError("only positive numbers ohh")
     
@@ -8,7 +9,5 @@ def enterAge(age):
         print("Entered age is odd")
 
 
-num = int(input('enter your age'))
-enterAge(num)
 
 

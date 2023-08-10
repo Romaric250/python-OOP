@@ -1,6 +1,7 @@
 from datetime import datetime
 import uuid
-
+from random import *
+from exceptions import enterAge
 
 class Restaurant(object):
     def __init__(self,restaurant_name, cuisine_type):
@@ -42,3 +43,10 @@ user = User("Romaric", "Lofonyuy","12345")
 
 users = Users("Ronald", "James","15682681")
 user.describe_user()
+num = randint(3,100)
+
+counter = 100
+i = 1
+for i in range(100):
+    print(num)
+
