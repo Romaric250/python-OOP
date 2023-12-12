@@ -18,6 +18,10 @@ companies = [
 companies.sort(key=lambda com:com[0],reverse=True)
 print(companies)
 
+li = [1,2,3,4,5]
+del li[1:2]
+
+print(li)
 
 
 
